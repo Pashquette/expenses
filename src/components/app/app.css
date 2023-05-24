@@ -1,0 +1,10 @@
+.app {
+    margin: 30px auto;
+    max-width: 600px;
+}
+
+.app__title {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+}
